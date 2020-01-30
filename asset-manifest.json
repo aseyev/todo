@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/todospa/static/css/main.d1b05096.chunk.css",
-    "main.js": "/github.io/todospa/static/js/main.65296fab.chunk.js",
-    "main.js.map": "/github.io/todospa/static/js/main.65296fab.chunk.js.map",
-    "runtime-main.js": "/github.io/todospa/static/js/runtime-main.51578006.js",
-    "runtime-main.js.map": "/github.io/todospa/static/js/runtime-main.51578006.js.map",
-    "static/js/2.61856076.chunk.js": "/github.io/todospa/static/js/2.61856076.chunk.js",
-    "static/js/2.61856076.chunk.js.map": "/github.io/todospa/static/js/2.61856076.chunk.js.map",
-    "index.html": "/github.io/todospa/index.html",
-    "precache-manifest.6f7834aeb5b043a951bf5a054984c04c.js": "/github.io/todospa/precache-manifest.6f7834aeb5b043a951bf5a054984c04c.js",
-    "service-worker.js": "/github.io/todospa/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/github.io/todospa/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.61856076.chunk.js.LICENSE": "/github.io/todospa/static/js/2.61856076.chunk.js.LICENSE",
-    "static/media/logo.svg": "/github.io/todospa/static/media/logo.5d5d9eef.svg"
+    "main.css": "/todospa/static/css/main.d1b05096.chunk.css",
+    "main.js": "/todospa/static/js/main.4f4d3f3a.chunk.js",
+    "main.js.map": "/todospa/static/js/main.4f4d3f3a.chunk.js.map",
+    "runtime-main.js": "/todospa/static/js/runtime-main.a31af1b0.js",
+    "runtime-main.js.map": "/todospa/static/js/runtime-main.a31af1b0.js.map",
+    "static/js/2.61856076.chunk.js": "/todospa/static/js/2.61856076.chunk.js",
+    "static/js/2.61856076.chunk.js.map": "/todospa/static/js/2.61856076.chunk.js.map",
+    "index.html": "/todospa/index.html",
+    "precache-manifest.aeb23639db6351edfb3135b0f18ba847.js": "/todospa/precache-manifest.aeb23639db6351edfb3135b0f18ba847.js",
+    "service-worker.js": "/todospa/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/todospa/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.61856076.chunk.js.LICENSE": "/todospa/static/js/2.61856076.chunk.js.LICENSE",
+    "static/media/logo.svg": "/todospa/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.51578006.js",
+    "static/js/runtime-main.a31af1b0.js",
     "static/js/2.61856076.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.65296fab.chunk.js"
+    "static/js/main.4f4d3f3a.chunk.js"
   ]
 }
