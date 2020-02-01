@@ -31,7 +31,8 @@ class App extends Component {
     }
     addTodo = (todo) => {
         let lastId = this.state.todos.length - 1;
-        todo.id = (this.state.todos[lastId].id + 1)
+        //ternary. id = last.id+1,   OR (if no todos) = 0 
+        todo.id = this.state.todos.length ? (this.state.todos[lastId].id + 1) : 0;
         let newTodos = [...this.state.todos, todo]
         this.setState({todos: newTodos})
     }

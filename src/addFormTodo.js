@@ -22,6 +22,7 @@ export default class AddTodo extends Component {
         e.preventDefault();
         this.props.addTodo(this.state);
         this.setState({content: ""})
+        console.log(this.state);
     }
     
     render() {
